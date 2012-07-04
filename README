@@ -2,7 +2,7 @@ ComparatorView is a class that extends the UIImageView, and it is designed to co
 
 I created this because of the need to do pixel perfect screens, so this way I can compare the final result without going to photoshop.
 
-<h1>How to use:</h1>
+How to use:
 
 You just need to add a ComparatorView in your view and define the image, exact like you do in the UIImageView.
 
