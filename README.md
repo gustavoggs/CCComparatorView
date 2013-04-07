@@ -1,7 +1,7 @@
 Purpose
 ------------------
 
-ComparatorView is a class that extends the UIImageView class.
+CCComparatorView is a class that extends the UIImageView class.
 
 It is created to compare the way the view is looking with an image. This is created by the need to do pixel perfect screens and to adjust things exactly like it look in the image.
 

@@ -1,13 +1,12 @@
 //
-//  PixelPerfectView.m
-//  Syngo
+//  CCComparatorView.h
 //
 //  Created by Gustavo Grana on 7/3/12.
 //
 
-#import "ComparatorView.h"
+#import "CCComparatorView.h"
 
-@implementation ComparatorView
+@implementation CCComparatorView
 
 - (id)initWithCoder:(NSCoder *)aDecoder {
 
